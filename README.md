@@ -22,3 +22,7 @@ The most common mistakes made by new coders creating applications are human erro
 <New risk> Being overwhelemd and frustrasted I encountered making many mistakes and wanted to give up on the assignment.
 
 Test Cases - Will be submitted seperately
+ 
+ PLEASE READ - Since i was confused i have also submitted the other code spend most my time doing and mid confusion. This is to show how much work was put in and to get the max partial credit for the assignment. 
+ 
+ 
