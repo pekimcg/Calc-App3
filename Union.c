@@ -3,15 +3,15 @@
 #include <stdio.h>
 
 union calculator {    // Define the union named codewindow.
-    int num;
-    float res;
-    char opr;
+    int num; // input number in my calc
+    float res; //get the result in my calc
+    char opr; // select the operator in my calc
 };  // Declare three variables num, res and opr of different data types.
 
 struct calc {    // Define the structure named calculator.
-    int num;
-    float res;
-    char opr;
+    int num; // input the numbers
+    float res; // get the result
+    char opr; // use the operator
 };  // Declare three variables num, res and opr of different data types.
 
 int main() {
